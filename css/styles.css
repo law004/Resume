@@ -3754,7 +3754,7 @@ textarea.form-control-lg {
   align-items: center;
   justify-content: space-between;
   padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
-  background-color: #512f86;
+  background-color: rgb(177, 94, 101);
 }
 .navbar > .container,
 .navbar > .container-fluid,
